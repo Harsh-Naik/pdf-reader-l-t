@@ -1,0 +1,41 @@
+{
+    "emp12": {
+        "National Documents": [
+            {
+                "File": "harsh adhar (1).pdf",
+                "Type": "Aadhaar Card",
+                "Path": "D:\\employee data\\emp12\\National Documents\\Aadhaar Card\\harsh adhar (1).pdf"
+            },
+            {
+                "File": "harsh adhar 2.pdf",
+                "Type": "Aadhaar Card",
+                "Path": "D:\\employee data\\emp12\\National Documents\\Aadhaar Card\\harsh adhar 2.pdf"
+            }
+        ],
+        "Academic Documents": [
+            {
+                "File": "btech 1.pdf",
+                "Type": "Degree Marksheet",
+                "Path": "D:\\employee data\\emp12\\Academic Documents\\Degree Marksheet\\btech 1.pdf"
+            }
+        ],
+        "Office Documents": [
+            {
+                "File": "report.pdf",
+                "Type": "Offer Letter",
+                "Path": "D:\\employee data\\emp12\\Office Documents\\Offer Letter\\report.pdf"
+            }
+        ]
+    },
+    "emp13": {
+        "National Documents": [],
+        "Academic Documents": [
+            {
+                "File": "btech degree 3.pdf",
+                "Type": "Degree Marksheet",
+                "Path": "D:\\employee data\\emp13\\Academic Documents\\Degree Marksheet\\btech degree 3.pdf"
+            }
+        ],
+        "Office Documents": []
+    }
+}
